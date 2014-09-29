@@ -1,13 +1,5 @@
 # Javascript Racer 1 Front End
 
-## Learning Competencies
-
-* Define [jQuery][] callback events
-* Change the DOM based on events
-* Write custom event handlers in JavaScript and jQuery
-* Build a pure JavaScript application
-* Write OO-JavaScript
-
 ## Summary
 
 Let's create a JavaScript-only version of [Ruby Racer][].  For now it will be a
@@ -118,9 +110,6 @@ playing, winning, and restarting) and submit your solution as a pull request
 with at least three files: an HTML file, a CSS file, and a JavaScript file.
 You can have more files, but all CSS and JavaScript should be linked externally
 from the HTML file.
-
-<!-- ## Optimize Your Learning -->
-
 
 ## Resources
 
