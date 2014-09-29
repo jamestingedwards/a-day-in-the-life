@@ -1,7 +1,7 @@
 a-day-in-the-life
 =================
 
-h2 Schedule
+##Schedule
 
 - 8:30am - 9:30am: Group check in, intros, ice breakers
 - 9:30am - 10:00am: Lecture, web dev and intro
