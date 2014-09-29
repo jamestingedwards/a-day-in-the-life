@@ -4,7 +4,7 @@ Enspiral Dev Academy's: A Day in the Life
 ##Schedule
 
 - 8:30am - 9:30am: Group check in, intros, ice breakers
-- 9:30am - 10:00am: Lecture (web dev)
+- 9:30am - 10:00am: Lecture (intro to web development)
 - 10:00am - 12:00pm: Code challenge 
 - 12:00pm - 12:30pm: Optional yoga/walk (weather permitting)
 - 12:30pm - 1:30pm: Lunch
