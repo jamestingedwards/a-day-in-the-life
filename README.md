@@ -16,7 +16,7 @@ Enspiral Dev Academy's: A Day in the Life
 ###Code Challenge One (Javascript Racer): 
 
 This challenge is a quick way to get a few Javascript fundamentals under your belt. We'll to build a fun and interactive game that runs soley in your browser. After completing the challenge you will be able to:
-* Define [jQuery][] callback events
+* Define jQuery callback events
 * Change the DOM based on events
 * Write custom event handlers in JavaScript and jQuery
 * Build a pure JavaScript application
