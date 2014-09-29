@@ -1,4 +1,4 @@
-a-day-in-the-life
+Enspiral Dev Academy's: A Day in the Life
 =================
 
 ##Schedule
