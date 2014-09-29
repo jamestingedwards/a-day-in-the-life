@@ -13,7 +13,9 @@ Enspiral Dev Academy's: A Day in the Life
 - 5:45pm - 6:00pm: Stand-up & goodbyes
 
 
-###Code Challenge One
+###Code Challenge One (Javascript Racer): 
+
+This challenge is a quick way to get a few Javascript fundamentals under your belt. We'll to build a fun and interactive game that runs soley in your browser. So without further delay, let's get into the magic!
 
 
 ###Engineering Empathy
