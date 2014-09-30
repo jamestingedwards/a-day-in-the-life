@@ -2,19 +2,13 @@
 
 ## Summary
 
-Let's create a JavaScript-only version of [Ruby Racer][].  For now it will be a
-single html page with no back-end at all.  Later we'll add the ability to save
-high scores and the like by adding a back-end to the application.
+Vroom vroom! We're going to build a simple game called Javascript Racer. Essentially it's a browser drag race. There are two players. Each starts with a "car" sitting at the beginning of the track, side-by-side. The track is N squares long. 
 
-Unlike Ruby Racer, the outcome of the game won't be pure chance.  Each player
-will advance their "car" by smashing some key.  For example, player 1 might be
-the "q" key and player 2 might be the "p" key.
+Each player will advance their "car" by smashing some key.  For example, player 1 might be the "q" key and player 2 might be the "p" key.
 
-The goal here is to learn more about JavaScript, jQuery, the DOM, and
-asynchronous event handling.
+The goal here is to learn more about JavaScript, jQuery, the DOM, and asynchronous event handling.
 
-Before you start, you should read about [jQuery][].  In particular, you should
-understand event handling and callback functions.
+Before you start, you should read about [jQuery][].  In particular, you should understand event handling and callback functions.
 
 ## Releases
 
