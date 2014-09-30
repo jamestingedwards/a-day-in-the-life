@@ -16,7 +16,7 @@ Enspiral Dev Academy's: A Day in the Life
 ###Admin
 
 - To see who you have been paired up with for the challenges, check out [this list]()
-- Help yourself to coffee/hot drinks and milk from the kitchen
+- Help yourself to coffee/hot drinks and milk from the kitchen. Lunch is provided at 12.30. If you communicated special dietary requirements with us we will have something for you.
 - Bathrooms are located on the right out past the lifts
 - In case of emergency, please evacuate the building and meet in The Mill Liquor carpark
 
