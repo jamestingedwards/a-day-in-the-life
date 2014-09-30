@@ -15,6 +15,8 @@ Enspiral Dev Academy's: A Day in the Life
 
 ###Code Challenge One (Javascript Racer): 
 
+Before we kick off with our first challenge let talk about pairing! You're not going alone in your ventures into Javascript land and it's important we're all on the same page about how pairing works. Check out [this video called 'Pairing is Caring'](http://vimeo.com/76662569) and have a discussion with your pair on how you want the challenge to work for the two of you. Then, get into it!
+
 This challenge is a quick way to get a few Javascript fundamentals under your belt. We'll to build a fun and interactive game that runs soley in your browser. After completing the challenge you will be able to:
 * Define jQuery callback events
 * Change the DOM based on events
