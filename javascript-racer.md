@@ -1,4 +1,4 @@
-# Javascript Racer 1 Front End
+# Javascript Racer! 
 
 ## Summary
 
