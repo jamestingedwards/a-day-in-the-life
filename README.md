@@ -22,7 +22,7 @@ This challenge is a quick way to get a few Javascript fundamentals under your be
 * Build a pure JavaScript application
 * Write OO-JavaScript
 
-So without further delay, let's get into the magic!
+So without further delay, [let's get into the magic!](javascript-racer.md)
 
 
 ###Engineering Empathy
