@@ -27,6 +27,9 @@ So without further delay, [let's get into the magic!](javascript-racer.md)
 
 ###Engineering Empathy
 
+Developing soft-skills is a strong theme of Enspiral Dev Academy. However regardless, of your profession the skills fostered through such reflection and discussion is extremyly beneficial. Today we will be diving a little into xxxxxxxxxx with Joshua Vial, one of EDA's co-founders.
+
+If you find this stuff really interesting check out [this video]() where the founder of Dev Bootcamp gives a fireside chat and also chek out [this book]() which the Engineering Empathy content is based upon.
 
 ###Code Challenge Two
 
