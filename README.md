@@ -67,7 +67,6 @@ Engineering Empathy:
 - [Effect of Praise on Mindset](http://www.youtube.com/watch?v=TTXrV0_3UjY)
 - get an overview of [Visible Learning](http://visible-learning.org/glossary/) by John Hattie
 - [Alan Kay on Learning](http://www.youtube.com/watch?v=50L44hEtVos)
-
-Developmer Resources:
+Developer Resources:
 - 
 
