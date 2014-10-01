@@ -112,6 +112,7 @@ from the HTML file.
 * [Moxilla documentation for: keyup][keyup]
 * [Moxilla documentation for: keydown][keydown]
 * [Moxilla documentation for: keypress][keypress]
+* [JQuery on Codecademy for: codecademy][codecademy]
 
 
 [jQuery]: http://learn.jquery.com/about-jquery/
@@ -119,3 +120,4 @@ from the HTML file.
 [keyup]: http://api.jquery.com/keyup/
 [keydown]: http://api.jquery.com/keydown/
 [keypress]: http://api.jquery.com/keypress/
+[codecademy]: http://www.codecademy.com/tracks/jquery
