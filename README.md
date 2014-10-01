@@ -55,6 +55,8 @@ If you find this stuff interesting check out [this video](http://vimeo.com/82610
 
 ###Code Challenge Two (A-mazing Javascript)
 
+We will be mixing up our pairs again this afternoon. It's up to you who you want to work with, but maybe have a conversation first around prior experience and what they want to get out of the challenge. Once you've paired up, make sure you have your conversation based on what you learnt from pairing is caring.
+
 This afternoon we're going to take a step up and push our skills a little. If you found this morning too challenging and would like some help, grab a coach and request a breakout. Let them know what you're having difficulties with and work through it together.
 
 This second challenge, A-mazing Javascript will introduce a few new Javascript and JQuery concepts and will also push your creative thinking.
