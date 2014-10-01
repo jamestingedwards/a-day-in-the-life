@@ -64,6 +64,7 @@ Want a quick taste of Ruby or C#? Try [this challenge](roman-numerals.md). We're
 
 ###Life beyond A Day in the Life
 There is no reason that A Day in the Life has to stop now. Hopefully you've now caught the bug and have the insatiable thirst for knowledge that all developers fall ill to. Here are a few resources to help you on your pursuit.
+
 Engineering Empathy:
 - [Effect of Praise on Mindset](http://www.youtube.com/watch?v=TTXrV0_3UjY)
 - get an overview of [Visible Learning](http://visible-learning.org/glossary/) by John Hattie
