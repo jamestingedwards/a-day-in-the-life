@@ -62,4 +62,6 @@ If you find this stuff interesting check out [this video](http://vimeo.com/82610
 Want a quick taste of Ruby? Try [this challenge](roman-numerals.md)
 
 
-###Furthering web development skills
+###Life beyond A Day in the Life
+
+
