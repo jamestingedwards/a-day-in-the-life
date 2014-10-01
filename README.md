@@ -54,7 +54,12 @@ Developing soft-skills is a strong theme of Enspiral Dev Academy. However regard
 If you find this stuff interesting check out [this video](http://vimeo.com/82610073) where you get a little more insight on what Dev Bootcamp tries to get out of EE and also chek out [this book](http://www.siyli.org/learn-more/read-the-book/) which the Engineering Empathy content is based upon.
 
 ###Code Challenge Two (A-mazing Javascript)
-TODO
+
+This afternoon we're going to take a step up and push our skills a little. If you found this morning too challenging and would like some help, grab a coach and request a breakout. Let them know what you're having difficulties with and work through it together.
+
+This second challenge, A-mazing Javascript will introduce a few new Javascript and JQuery concepts and will also push your creative thinking.
+
+So without futher adieu, [let's get going!]()
 
 ###Additional challenges
 
