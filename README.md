@@ -77,5 +77,10 @@ There is no reason that A Day in the Life has to stop now. Hopefully you've now 
   - [Alan Kay on Learning](http://www.youtube.com/watch?v=50L44hEtVos)
 
 - Developer Resources:
-  - TODO
+  - Finish off any of the prep work you didn't get around to
+  - Read [this book](https://github.com/skmetz/poodr), especially if you're interested in Ruby.
+  - Learn about [refactoring](http://sourcemaking.com/refactoring)
+  - Check out more on [Codecademy](http://www.codecademy.com/)
+  - Try [Code School](https://www.codeschool.com/)
+  - Come along to our meetups [every thursday](http://www.meetup.com/Enspiral-Dev-Academy-Meetup/)
 
