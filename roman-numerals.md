@@ -105,4 +105,3 @@ For example, if we're counting people as they walk into a room by marking someth
 
 Instead, we opt for using [tally marks](http://en.wikipedia.org/wiki/Tally_marks) to count.
 
-##Resources
