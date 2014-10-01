@@ -59,7 +59,7 @@ We will be mixing up our pairs again this afternoon. It's up to you who you want
 
 This afternoon we're going to take a step up and push our skills a little. If you found this morning too challenging and would like some help, grab a coach and request a breakout. Let them know what you're having difficulties with and work through it together.
 
-This second challenge, A-mazing Javascript will introduce a few new Javascript and JQuery concepts and will also push your creative thinking.
+This second challenge, A-mazing Javascript, will introduce a few new Javascript and JQuery concepts and will also push your creative thinking.
 
 So without futher adieu, [let's get going!]()
 
