@@ -40,6 +40,8 @@ Symbols like 5, "five", V, and IIIII are one way. If you asked a three-year-old,
 
 ###Release 0 : Old-school Roman numerals
 
+We've already got the skeleton code sorted for you. Check out either roman-numeral.rb or roman-numeral.cs to make a start. Check out a new branch and then be sure to submit your solution via a pull request.
+
 In the early days of Roman numerals, the Roman's didn't bother with any of this new-fangled subtraction 'IX' nonsense. No sir, it was straight addition, biggest to littlest–so 9 was written 'VIIII' and so on.
 
 Write a method `to_roman` that when passed an integer between 1 and 3000 returns a string containing the proper old-school Roman numeral.
