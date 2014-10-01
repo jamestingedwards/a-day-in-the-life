@@ -2,7 +2,7 @@
 
 ##Learning Competencies
 
-* Use methods to modularize code
+* Use methods seperate code into particular concerns
 * Use data structures to map relationships
 * Write small, concise methods
 * Write DRY code
