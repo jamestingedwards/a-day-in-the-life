@@ -59,7 +59,7 @@ If you find this stuff interesting check out [this video](http://vimeo.com/82610
 
 ###Additional challenges
 
-Want a quick taste of Ruby? Try [this challenge](roman-numerals.md)
+Want a quick taste of Ruby or C#? Try [this challenge](roman-numerals.md). We're going to build a cypher for turning integers into Roman Numerals. Now if tht doesn't sound useful in your everyday life then you're doing something wrong!
 
 
 ###Life beyond A Day in the Life
