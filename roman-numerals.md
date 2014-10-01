@@ -11,6 +11,8 @@
 
 ##Summary
 
+Before kicking off with this challenge if you have no prior coding experience with Ruby or C# grab a coach and let them know what you're up to. Ask for a breakout session around your select language fundamentals and if need be ask them to help you pair while you're getting started. 
+
 We're going to write a method that converts an integer to its Roman numeral equivalent, i.e., 476 => 'CDLXXVI'.
 
 For reference, these are the building blocks for how we encode numbers with Roman numerals:
