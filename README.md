@@ -20,6 +20,18 @@ Enspiral Dev Academy's: A Day in the Life
 - Bathrooms are located on the right out past the lifts
 - In case of emergency, please evacuate the building and meet in The Mill Liquor carpark
 
+###Who Can I Ask For Help?
+
+- Anyone!
+  - Ask any other student, we're all here to learn together and have differing experience levels.
+
+- Coaches!
+  - The coaches are here to make your day enjoyable and to get the most out of it. They don't bite either which is nice...
+
+- Online!
+  - Stackoverflow has human beings that answer questions, try it sometime.
+  - Github repos for gems or other projects have real people behind them.
+
 
 ###Code Challenge One (Javascript Racer): 
 
