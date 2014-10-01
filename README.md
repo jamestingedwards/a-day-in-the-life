@@ -45,7 +45,7 @@ This challenge is a quick way to get a few Javascript fundamentals under your be
 
 So without further delay, [let's get into the magic with Javascript Racer!](javascript-racer.md)
 
-If you've found that you've *raced through* this challenge, we've got just the thing for you and your pair. Check out this new challenge [Javascript Street Racer](javascript-street-racer.md).
+If you've found that you've *raced through* this challenge, we've got just the thing for you and your pair. Check out this new challenge [Roman Numerals](roman-numerals.md). It'll give you a taste of Ruby or C#.
 
 ###Engineering Empathy
 
