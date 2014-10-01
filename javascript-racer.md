@@ -107,7 +107,6 @@ from the HTML file.
 
 ## Resources
 
-* [Ruby Racer][]
 * [jQuery][]
 * [normalize.css][]
 * [Moxilla documentation for: keyup][keyup]
@@ -115,7 +114,6 @@ from the HTML file.
 * [Moxilla documentation for: keypress][keypress]
 
 
-[Ruby Racer]: http://socrates.devbootcamp.com/challenges/230
 [jQuery]: http://learn.jquery.com/about-jquery/
 [normalize.css]: http://necolas.github.com/normalize.css/
 [keyup]: http://api.jquery.com/keyup/
