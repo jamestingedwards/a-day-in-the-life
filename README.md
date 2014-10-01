@@ -9,7 +9,7 @@ Enspiral Dev Academy's: A Day in the Life
 - 12:00pm - 12:30pm: Optional yoga/walk
 - 12:30pm - 1:30pm: Lunch
 - 1:30pm - 2:30pm: Engineering Empathy
-- 2.30pm - 5:45pm: Code challenge
+- 2.30pm - 5:45pm: Code challenge two
 - 5:45pm - 6:00pm: Stand-up & goodbyes
 
 
