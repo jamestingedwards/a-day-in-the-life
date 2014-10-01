@@ -20,21 +20,32 @@ Enspiral Dev Academy's: A Day in the Life
 - Bathrooms are located on the right out past the lifts
 - In case of emergency, please evacuate the building and meet in The Mill Liquor carpark
 
+###Who Can I Ask For Help?
+
+- Anyone!
+  - Ask any other student, we're all here to learn together and have differing experience levels.
+
+- Coaches!
+  - The coaches are here to make your day enjoyable and to get the most out of it. They don't bite either which is nice...
+
+- Online!
+  - Stackoverflow has human beings that answer questions, try it sometime.
+  - Github repos for gems or other projects have real people behind them.
+
 
 ###Code Challenge One (Javascript Racer): 
 
 Before we kick off with our first challenge let talk about pairing! You're not going alone in your ventures into Javascript land and it's important we're all on the same page about how pairing works. Check out [this video called 'Pairing is Caring'](http://vimeo.com/76662569) and have a discussion with your pair on how you want the challenge to work for the two of you. Then, get into it!
 
-This challenge is a quick way to get a few Javascript fundamentals under your belt. We'll to build a fun and interactive game that runs soley in your browser. After completing the challenge you will be able to:
+This challenge is a quick way to get a few Javascript fundamentals under your belt. We'll to build a fun and interactive game that runs soley in your browser (i.e.Chrome, Firefox). After completing the challenge you will be able to:
 * Define jQuery callback events
 * Change the DOM based on events
 * Write custom event handlers in JavaScript and jQuery
 * Build a pure JavaScript application
-* Write OO-JavaScript
 
-So without further delay, [let's get into the magic!](javascript-racer.md)
+So without further delay, [let's get into the magic with Javascript Racer!](javascript-racer.md)
 
-If you've found that you've *raced through* this challenge, we've got just the thing for you and your pair. Check out this new challenge [Javascript Street Racer](javascript-street-racer.md).
+If you've found that you've *raced through* this challenge, we've got just the thing for you and your pair. Check out this new challenge [Roman Numerals](roman-numerals.md). It'll give you a taste of Ruby or C#.
 
 ###Engineering Empathy
 
@@ -43,9 +54,21 @@ Developing soft-skills is a strong theme of Enspiral Dev Academy. However regard
 If you find this stuff interesting check out [this video](http://vimeo.com/82610073) where you get a little more insight on what Dev Bootcamp tries to get out of EE and also chek out [this book](http://www.siyli.org/learn-more/read-the-book/) which the Engineering Empathy content is based upon.
 
 ###Code Challenge Two
-
+TODO
 
 ###Additional challenges
 
+Want a quick taste of Ruby or C#? Try [this challenge](roman-numerals.md). We're going to build a cypher for turning integers into Roman Numerals. Now if tht doesn't sound useful in your everyday life then you're doing something wrong!
 
-###Furthering web development skills
+
+###Life beyond A Day in the Life
+There is no reason that A Day in the Life has to stop now. Hopefully you've now caught the bug and have the insatiable thirst for knowledge that all developers fall ill to. Here are a few resources to help you on your pursuit.
+
+- Engineering Empathy:
+  - [Effect of Praise on Mindset](http://www.youtube.com/watch?v=TTXrV0_3UjY)
+  - get an overview of [Visible Learning](http://visible-learning.org/glossary/) by John Hattie
+  - [Alan Kay on Learning](http://www.youtube.com/watch?v=50L44hEtVos)
+
+- Developer Resources:
+  - TODO
+

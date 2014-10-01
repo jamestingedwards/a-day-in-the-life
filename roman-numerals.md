@@ -2,14 +2,16 @@
 
 ##Learning Competencies
 
-* Use methods to modularize code
+* Use methods seperate code into particular concerns
 * Use data structures to map relationships
 * Write small, concise methods
-* Write DRY code
+* Write DRY (don't repeat yourself) code
 * Use effective naming conventions
 
 
 ##Summary
+
+Before kicking off with this challenge if you have no prior coding experience with Ruby or C# grab a coach and let them know what you're up to. Ask for a breakout session around your select language fundamentals and if need be ask them to help you pair while you're getting started. 
 
 We're going to write a method that converts an integer to its Roman numeral equivalent, i.e., 476 => 'CDLXXVI'.
 
@@ -33,12 +35,12 @@ Of course not. You've seen things that somehow embody five: five apples, five fi
 
 Symbols like 5, "five", V, and IIIII are one way. If you asked a three-year-old, they might hold up the five fingers on their hand or pull out five pennies from their pocket. Computers encode numbers as a sequence of 0s and 1s called [binary](http://en.wikipedia.org/wiki/Binary_number).
 
-[The map is not the territory](http://en.wikipedia.org/wiki/Map%E2%80%93territory_relation), as they say.
-
 
 ##Releases
 
 ###Release 0 : Old-school Roman numerals
+
+We've already got the skeleton code sorted for you. Check out either roman-numeral.rb or roman-numeral.cs to make a start. Check out a new branch and then be sure to submit your solution via a pull request.
 
 In the early days of Roman numerals, the Roman's didn't bother with any of this new-fangled subtraction 'IX' nonsense. No sir, it was straight addition, biggest to littlest–so 9 was written 'VIIII' and so on.
 
@@ -105,4 +107,3 @@ For example, if we're counting people as they walk into a room by marking someth
 
 Instead, we opt for using [tally marks](http://en.wikipedia.org/wiki/Tally_marks) to count.
 
-##Resources
