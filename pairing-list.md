@@ -10,3 +10,5 @@ Jason| Isaac
 Lucy| Jonathan
 Harriet| Carlos
 Rob| Loic
+Emma Cleland| Te Aihe Butler
+James Ting-Edwards| Libby Schumacher-Knight
