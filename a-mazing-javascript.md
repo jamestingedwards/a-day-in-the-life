@@ -51,31 +51,21 @@ Then, using CSS, you can provide styles like:
 }
 ```
 
-Updating a player's position could be achieved by adding the `active` class to
-the appropriate `td`.  There are many other ways to achieve a sensible board
-output; this is just one suggestion.
+Updating a player's position could again be achieved by adding the `active` class to the appropriate `td`. There are lots of ways to define the track through the maze. We need some way to differentiate the track (green) from the out of bounds area (red). Although it will be obvious to us visually, think about the best way to tell the computer when the player has gone off the track. Whatever way you choose to do this, it should be easy for jQuery/JavaScript to manipulate, so keep that in mind.
 
-Make sure you're able to "manually" produce all the board layouts you might
-care about before you jump into the JavaScript.  Whatever way you choose, it
-should be easy for jQuery/JavaScript to manipulate, so keep that in mind.
-
-Use something like [normalize.css][] to enable sane default styles.
 
 ### Release 1: Add JavaScript
 
-We need some way for JavaScript to update the board state.  Create simple
-JavaScript functions that can update a particular player's position.  You give
-the functions a player position as input and they update the underlying HTML to
-reflect the new position.
+Now that we have our maze board all set up we need some way for JavaScript to update the board state.  Create simple
+JavaScript functions that can update the player's position through the maze.  You give the functions the players position as input and they update the underlying HTML to reflect the new position. This doesn't have to be shown visually in the browser (but you can if you like), but will certainly need to change the state of the DOM.
 
 It could look something like:
 
 ```javascript
-update_player_position('player1', 10);
+update_player_position('player', 10);
 ```
 
-Store this JavaScript in a separate file and use the JavaScript console to
-debug it and pass in values manually.
+Just like you did in challenge one, store this JavaScript in a separate file and use the JavaScript console to debug it and pass in values manually.
 
 ### Release 2: Binding to Key Presses
 
