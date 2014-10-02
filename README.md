@@ -61,7 +61,7 @@ This afternoon we're going to take a step up and push our skills a little. If yo
 
 This second challenge, A-mazing Javascript, will introduce a few new Javascript and JQuery concepts and will also push your creative thinking.
 
-So without futher adieu, [let's get going!]()
+So without futher adieu, [let's get going!](a-mazing-javascript.md)
 
 ###Additional challenges
 
