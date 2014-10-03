@@ -5,6 +5,8 @@
 
 ```html
 <!DOCTYPE html>
+<<!DOCTYPE html>
+<html>
 <head>
 <title>Title of the document</title>
 <link rel="stylesheet" type="text/css" href="theme.css">
