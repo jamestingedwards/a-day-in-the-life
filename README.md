@@ -33,7 +33,7 @@ Enspiral Dev Academy's: A Day in the Life
   - Github repos for gems or other projects have real people behind them.
 
 
-###Code Challenge One (Javascript Racer): 
+###Code Challenge One (Javascript Racer):
 
 Before we kick off with our first challenge let talk about pairing! You're not going alone in your ventures into Javascript land and it's important we're all on the same page about how pairing works. Check out [this video called 'Pairing is Caring'](http://vimeo.com/76662569) and have a discussion with your pair on how you want the challenge to work for the two of you. Then, get into it!
 
@@ -66,6 +66,8 @@ So without futher adieu, [let's get going!](a-mazing-javascript.md)
 ###Additional challenges
 
 Want a quick taste of Ruby or C#? Try [this challenge](roman-numerals.md). We're going to build a cypher for turning integers into Roman Numerals. Now if tht doesn't sound useful in your everyday life then you're doing something wrong!
+
+Also, if you like the idea of being an editor for a day, check out the [My Stuff Challenge](my-stuff.md)
 
 
 ###Life beyond A Day in the Life
