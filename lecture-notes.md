@@ -21,5 +21,31 @@
 
 - [The DOM](http://css-tricks.com/dom/)
 - CSS
+
+```css
+p {
+  color: red;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: right;
+}
+```
+
 - Javascript
+
+```javascript
+<script>
+function myFunction() {
+    alert("Hello! I am an alert box!");
+}
+</script>
+```
 - JQuery
+
+```jquery
+$( document ).ready(function() {
+    console.log( "ready!" );
+});
+```
+
+
