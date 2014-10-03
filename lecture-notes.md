@@ -40,7 +40,7 @@ function myFunction() {
 ```
 - JQuery
 
-```jquery
+```javascript
 $( document ).ready(function() {
     console.log( "ready!" );
 });
