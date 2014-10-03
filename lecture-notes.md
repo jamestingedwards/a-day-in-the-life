@@ -29,22 +29,26 @@ p {
   font-weight: bold;
   text-align: right;
 }
+
+.btn {
+  background-color: blue;
+  padding: 10px;
+  border-radius: 3px;
+}
 ```
 
 - Javascript
 
 ```javascript
-<script>
 function myFunction() {
     alert("Hello! I am an alert box!");
-}
-</script>
+};
 ```
 - JQuery
 
-```jquery
+```javascript
 $( document ).ready(function() {
-    console.log( "ready!" );
+    $('p').addClass('btn');
 });
 ```
 
