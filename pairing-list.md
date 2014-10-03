@@ -5,10 +5,13 @@
 Name | Name
 ---|---
 Katie| Daniella
-Luke| Elise
+Luke| Dennis
 Jason| Isaac
 Lucy| Jonathan
-Harriet| Carlos
+Harriet| Tim
 Rob| Loic
-Emma Cleland| Te Aihe Butler
-James Ting-Edwards| Libby Schumacher-Knight
+Carlos| Jessica
+Taja| Steve
+Libby| James
+Elsie| Te Aihe
+Sam| Emma
